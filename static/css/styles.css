@@ -1,0 +1,48 @@
+
+hr{
+	margin: 3% 17% ;
+}
+body{
+	background-color: #F4F3EA;
+	color: #333d51;
+	font-family: 'Merriweather', serif;
+	font-size: 12px;
+
+}
+h1{
+	margin-bottom: 0;
+}
+a{
+	color: #e6dbdb;
+}
+input{
+	width: 100%;
+}
+
+
+
+/*title section*/
+
+#title{
+	text-align: center;
+	
+
+}
+
+
+
+/*details section*/
+
+
+/* footer Section*/
+footer{
+	background-color: #333d51;
+	text-align: center;
+	color: #ffff;
+}
+.footer{
+	background-color: #3a3535;
+	color: #57648c;
+}
+
+
